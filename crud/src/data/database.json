@@ -1,0 +1,52 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João",
+      "idade": 30,
+      "cidade": "São Paulo",
+      "email": "joao@example.com",
+      "telefone": "(11) 91234-5678",
+      "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 123,
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "cep": "01234-567"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "idade": 25,
+      "cidade": "Rio de Janeiro",
+      "email": "maria@example.com",
+      "telefone": "(21) 98765-4321",
+      "endereco": {
+        "rua": "Avenida das Palmeiras",
+        "numero": 456,
+        "bairro": "Copacabana",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "cep": "21000-123"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "idade": 35,
+      "cidade": "Belo Horizonte",
+      "email": "pedro@example.com",
+      "telefone": "(31) 87654-3210",
+      "endereco": {
+        "rua": "Rua das Pedras",
+        "numero": 789,
+        "bairro": "Savassi",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "cep": "30000-456"
+      }
+    }
+  ]
+}
