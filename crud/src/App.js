@@ -45,13 +45,12 @@ function App() {
   return (
     <div className="App">
       <h1 className="title">Requisição dos dados</h1>
-      
       <BrowserRouter>
         <Navbar />
         <Routes>
           <Route path="/details" element={<Detalhes />} />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter>      
     </div>
   );
 }
